@@ -1,7 +1,8 @@
-.parser > h1{
+.parser > h1, h3{
     text-align: center;
     margin: 50px;
 }
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
